@@ -1,0 +1,15 @@
+{
+  "name": "Physiology Pro - GP Calculator",
+  "short_name": "Physio Pro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b3d91",
+  "theme_color": "#0b3d91",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004458.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
